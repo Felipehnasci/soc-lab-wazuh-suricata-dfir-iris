@@ -9,7 +9,7 @@ Autor: Felipe Henriques Batista do Nascimento · Orientador: Darlan Batista Oliv
 > As seções marcadas com **[PREENCHER]** abaixo esperam os números medidos no seu laboratório. Não deixe nenhuma
 > delas vazia ou com valor inventado antes de publicar o repositório.
 
-## Resumo em inglês
+## Summary
 
 This project implements and evaluates an integrated open-source detection and response pipeline in an isolated VirtualBox lab.
 Suricata (NIDS, EVE JSON telemetry) and Auditd (host kernel auditing, via the Wazuh agent) feed a Wazuh SIEM that decodes and correlates
@@ -210,7 +210,7 @@ ou sistemas de terceiros. Não use os comandos deste repositório contra ambient
 
 **Felipe Henriques Batista do Nascimento**
 Engenharia da Computação – UNIFAN · Feira de Santana, BA
-LinkedIn: [PREENCHER] · TryHackMe: [PREENCHER]
+LinkedIn: https://www.linkedin.com/in/felipehnasci/ · TryHackMe: https://tryhackme.com/p/Lipinnn
 
 ## Licença
 
